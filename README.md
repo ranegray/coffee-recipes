@@ -1,2 +1,6 @@
 # coffee-recipes
-a website for when i forget how to use my aero press or chemex. quick reference for ratios. also its good practice for html/css. 
+https://coffee-recipes-nine.vercel.app/
+
+by Rane Gray
+
+a simple site for when i forget how to use my aeropress or chemex. quick reference for ratios. also its good practice for html/css. 
