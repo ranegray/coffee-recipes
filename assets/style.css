@@ -34,9 +34,11 @@ footer  {
     display: flex;
     /* justify-content: flex-end; */
     flex-direction: row;
+    margin-top: 1rem;
 }
 
 footer p {
+    font-weight: 700;
     padding: 5px;
 }
 
